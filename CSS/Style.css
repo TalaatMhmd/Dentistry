@@ -1,0 +1,23 @@
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.4) , rgba(0, 0, 0, 0.4)),
+    url(../Images/pexels-pavel-danilyuk-6812426.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    padding-top: 150px;
+}
+.navbar{
+    border-bottom:solid 4px rgb(39, 124, 167) ;
+}
+.sec{
+    background:linear-gradient(rgba(39, 124, 167, 0.6) ,rgba(39, 124, 167, 0.6)),
+    url(../Images/pexels-erik-mclean-6159685.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 70px;
+}
+.fram{
+    border: 2px white solid;
+    border-radius: 20px 0px;
+    padding: 50px;
+}
